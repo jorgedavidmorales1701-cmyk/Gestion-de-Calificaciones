@@ -25,5 +25,3 @@ El programa permite:
 -   **Promedio**
 -   **Calificación máxima**
 -   **Cantidad de aprobados** (≥ 10.0)
-
-Puedes colocar aquí la licencia que prefieras (MIT, Apache 2.0, etc.)
